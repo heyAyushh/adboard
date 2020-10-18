@@ -466,7 +466,7 @@ export default function show() {
             </svg>
         </div>
     }
-
+    
     return (
         <div >
             <div style={{ backgroundColor: "black", zIndex: "-1" }}>{Ad()}</div>

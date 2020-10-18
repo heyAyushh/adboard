@@ -12,4 +12,3 @@ Server is Built with Azure Functions to fulfill serverless Requirements
 
 ### Web
 Web is built with NextJS for Smart web
-
